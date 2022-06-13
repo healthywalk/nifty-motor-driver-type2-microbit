@@ -4,7 +4,7 @@
 
 ## Summary
 This extension supports the Motor drivers in __micro:bit MakeCode__ programming.  
-Many motor driver ICs or their breakouts, including Kitronik motor driver board, can use the extension.
+Many motor driver ICs or their breakouts, including Kitronik motor driver board, can use the extension.  
 The extension works drive-brake-mode instead drive-coast-mode, so it is suitable for feedback control applications.
 
 ## Methods
