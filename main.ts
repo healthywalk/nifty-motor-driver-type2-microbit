@@ -16,7 +16,7 @@ enum MotorEnum {
 }
 
 //% weight=90 color=#228b22 icon="\u24C2"
-namespace NiftyMotorDriver {
+namespace NiftyMotorDriver2 {
     let motor11: DigitalPin = DigitalPin.P8
     let motor12: DigitalPin = DigitalPin.P12
     let motor21: DigitalPin = DigitalPin.P0
