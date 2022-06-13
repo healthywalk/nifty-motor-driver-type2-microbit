@@ -1,6 +1,6 @@
 {
     "name": "nifty-motor-driver-type2-microbit",
-    "description": "the Motor drivers type2 in Microbit MakeCode. (drive-brake operation, Suitable for control applications) Can be used with many motor driver ICs, including Kitronik motor drivers, or their breakouts.",
+    "description": "the Motor drivers type2 in Microbit MakeCode. (drive-coast operation, Suitable for control applications) Can be used with many motor driver ICs, including Kitronik motor drivers, or their breakouts.",
     "dependencies": {
         "core": "*",
         "radio": "*",
