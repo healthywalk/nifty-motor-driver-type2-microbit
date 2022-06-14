@@ -5,7 +5,8 @@
 ## Summary
 This extension supports the Motor drivers in __micro:bit MakeCode__ programming.  
 Many motor driver ICs or their breakouts, including Kitronik motor driver board, can use the extension.  
-The extension works drive-brake-mode instead drive-coast-mode, so it is suitable for feedback control applications.
+The extension works drive-brake-mode instead drive-coast-mode, so it is suitable for feedback control applications.  
+Motor command values can be positive or negative (-100..100) and they mean forward or backward.
 
 ## Methods
 * Initialization    (Always run at the beginning)
